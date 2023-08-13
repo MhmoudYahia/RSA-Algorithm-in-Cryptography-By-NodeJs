@@ -1,4 +1,21 @@
 # RSA-Algorithm-in-Cryptography-By-NodeJs
+
+## Tech Stack 
+- NodeJS
+- Sockets
+
+## Features
+- keys can be generated automatically.
+- Also you can enter p and q in a file.
+- The Program works with large numbers.
+- Server and client are connected using socket programming.
+- All math functions are implemented from scratch.
+- The program is robust as possible.
+
+## TODO
+- GUI for both sender an receiver.
+- Bidirectional.
+
 ## What is the RSA algorithm (Rivest-Shamir-Adleman)?
 The RSA algorithm (Rivest-Shamir-Adleman) is the basis of a cryptosystem -- a suite of cryptographic algorithms that are used for specific security services or purposes -- which enables public key encryption and is widely used to secure sensitive data, particularly when it is being sent over an insecure network such as the internet.
 
