@@ -1,11 +1,12 @@
 # RSA-Algorithm-in-Cryptography-By-NodeJs
 
-## Tech Stack 
+## Stack 
 - NodeJS
 - Sockets
+- Number Theory
 
 ## Features
-- keys can be generated automatically.
+- Keys can be generated automatically.
 - Also you can enter p and q in a file.
 - The Program works with large numbers.
 - Server and client are connected using socket programming.
