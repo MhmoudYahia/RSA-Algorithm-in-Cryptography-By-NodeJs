@@ -178,6 +178,7 @@ const question = (prompt) => {
 BigInt.prototype.toJSON = function () {
   return this.toString();
 };
+
 module.exports = {
   generateRSAKeys,
   generateRSAKeysGivenp_q,
