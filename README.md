@@ -57,14 +57,18 @@ Alice could, of course, encrypt her message with Bob's RSA public key -- confide
 <hr>
 
 ## Client (Sender) PlainText Examble
-![image](https://github.com/MhmoudYahia/RSA-Algorithm-in-Cryptography-By-NodeJs/assets/94763036/524c90be-5098-4377-9f2d-2f9b9ba92ce4)
+![image](https://github.com/MhmoudYahia/RSA-Algorithm-in-Cryptography-By-NodeJs/assets/94763036/b168c116-b6f4-4c08-bd7b-e2daa6bceff3)
+
 ## Server (Receiver)
-![image](https://github.com/MhmoudYahia/RSA-Algorithm-in-Cryptography-By-NodeJs/assets/94763036/93e69f56-4998-4c33-9418-164c63aa83ce)
+![image](https://github.com/MhmoudYahia/RSA-Algorithm-in-Cryptography-By-NodeJs/assets/94763036/4f6cdbb0-eca1-4b77-bf20-b5611b5512f9)
+
 
 <hr>
 
 ## Client (Sender) Number Examble
-![image](https://github.com/MhmoudYahia/RSA-Algorithm-in-Cryptography-By-NodeJs/assets/94763036/c08adf94-961d-4f6f-8c79-5c6f0a59332a)
+![image](https://github.com/MhmoudYahia/RSA-Algorithm-in-Cryptography-By-NodeJs/assets/94763036/a38ed131-dff7-49ae-bc20-c85f9c4e9891)
+
 
 ## Server (Receiver)
-![image](https://github.com/MhmoudYahia/RSA-Algorithm-in-Cryptography-By-NodeJs/assets/94763036/d07ea2cc-7702-4796-ab0b-a4a58ef5500e)
+![image](https://github.com/MhmoudYahia/RSA-Algorithm-in-Cryptography-By-NodeJs/assets/94763036/65b2df45-5a53-462b-b6f7-779382016f1f)
+
